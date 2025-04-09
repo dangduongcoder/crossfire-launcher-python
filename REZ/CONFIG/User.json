@@ -1,0 +1,9 @@
+{
+    "player": {
+        "name": "Player",
+        "level": 1,
+        "exp": 0,
+        "gp": 0,
+        "zp": 0
+    }
+} 
