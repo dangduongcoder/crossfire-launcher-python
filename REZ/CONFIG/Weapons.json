@@ -1,0 +1,114 @@
+[
+    {
+        "name": "AK47 Transformer",
+        "type": "rifle",
+        "vip": 1,
+        "system_name": "AK47_Transformer",
+        "icon": "BigItemIcon_2304.PNG",
+        "class": "S"
+    },
+    {
+        "name": "AXE Beast",
+        "type": "melee",
+        "vip": 1,
+        "system_name": "AXE_Beast",
+        "icon": "BigItemIcon_2559.PNG",
+        "class": "S"
+    },
+    {
+        "name": "DE Born Beast",
+        "type": "pistol",
+        "vip": 1,
+        "system_name": "DE_Born_Beast",
+        "icon": "BigItemIcon_2010.PNG",
+        "class": "S"
+    },
+    {
+        "name": "AK47 Gold  ",
+        "type": "rifle",
+        "vip": 0,
+        "system_name": "AK47_Gold",
+        "icon": "BigItemIcon_175.PNG",
+        "class": "B"
+    },
+    {
+        "name": "AK47 Scope",
+        "type": "rifle",
+        "vip": 0,
+        "system_name": "AK47_Scope",
+        "icon": "BigItemIcon_177.PNG",
+        "class": "D"
+    },
+    {
+        "name": "AWM Camo",
+        "type": "sniper",
+        "vip": 0,
+        "system_name": "AWM_Camo",
+        "icon": "BigItemIcon_165.PNG",
+        "class": "D"
+    },
+    {
+        "name": "AK47",
+        "type": "rifle",
+        "vip": 0,
+        "system_name": "AK47",
+        "icon": "BigItemIcon_148.PNG",
+        "class": "D"
+    },
+    {
+        "name": "AK47 Transformer",
+        "type": "rifle",
+        "vip": 1,
+        "system_name": "AK47_Transformer",
+        "icon": "BigItemIcon_2304.PNG",
+        "class": "S"
+    },
+    {
+        "name": "AXE Beast",
+        "type": "melee",
+        "vip": 1,
+        "system_name": "AXE_Beast",
+        "icon": "BigItemIcon_2559.PNG",
+        "class": "S"
+    },
+    {
+        "name": "DE Born Beast",
+        "type": "pistol",
+        "vip": 1,
+        "system_name": "DE_Born_Beast",
+        "icon": "BigItemIcon_2010.PNG",
+        "class": "S"
+    },
+    {
+        "name": "AK47 Gold  ",
+        "type": "rifle",
+        "vip": 0,
+        "system_name": "AK47_Gold",
+        "icon": "BigItemIcon_175.PNG",
+        "class": "B"
+    },
+    {
+        "name": "AK47 Scope",
+        "type": "rifle",
+        "vip": 0,
+        "system_name": "AK47_Scope",
+        "icon": "BigItemIcon_177.PNG",
+        "class": "D"
+    },
+    {
+        "name": "AWM Camo",
+        "type": "sniper",
+        "vip": 0,
+        "system_name": "AWM_Camo",
+        "icon": "BigItemIcon_165.PNG",
+        "class": "D"
+    },
+    {
+        "name": "AK47",
+        "type": "rifle",
+        "vip": 0,
+        "system_name": "AK47",
+        "icon": "BigItemIcon_148.PNG",
+        "class": "D"
+    }
+]
